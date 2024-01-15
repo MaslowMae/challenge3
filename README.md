@@ -13,7 +13,7 @@ Let people know what your project can do specifically. Provide context and add a
 ## Visuals
 
 ![See how it works!](./assets/Password%20Generator.gif)
-
+<iframe src="https://drive.google.com/file/d/1u54CWIAL4mGVSYOz2NN7D-pvW3Pb922e/preview" width="640" height="480"></iframe>
 
 
 ## Installation
