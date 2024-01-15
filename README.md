@@ -32,7 +32,7 @@ You select OK for YES and Cancel For No
 Find support at https://github.com/MaslowMae for contact inquiries. 
 
 ## Roadmap
-Maybe in the future you can have your own ecrypted password creator and security key for your personal laptop! 
+Maybe in the future I can learn more about adding screenshots or GIFs to the README!
 
 ## Contributing
 Open to all advice and suggestions or resources to be better. 
